@@ -1,0 +1,10 @@
+{
+	"name": "contentful-schema-blog",
+	"version": "1.0.0",
+	"author": "ElegantStack Studio",
+	"bin": "./index.js",
+	"dependencies": {
+		"contentful-import": "^8.2.4",
+		"yargs": "^17.1.1"
+	}
+}
