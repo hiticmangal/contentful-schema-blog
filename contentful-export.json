@@ -12,7 +12,7 @@
         "id": "category",
         "type": "ContentType",
         "createdAt": "2020-03-13T21:04:10.137Z",
-        "updatedAt": "2020-03-14T20:48:03.724Z",
+        "updatedAt": "2021-06-28T10:55:40.056Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -20,8 +20,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 7,
-        "publishedAt": "2020-03-14T20:48:03.724Z",
+        "publishedVersion": 21,
+        "publishedAt": "2021-06-28T10:55:40.056Z",
         "firstPublishedAt": "2020-03-13T21:04:11.319Z",
         "createdBy": {
           "sys": {
@@ -37,8 +37,8 @@
             "id": "0GRqIckbonrTjZbkk1tQ4A"
           }
         },
-        "publishedCounter": 4,
-        "version": 8,
+        "publishedCounter": 11,
+        "version": 22,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -120,7 +120,7 @@
         "id": "author",
         "type": "ContentType",
         "createdAt": "2020-03-13T21:20:02.820Z",
-        "updatedAt": "2020-12-05T17:28:38.717Z",
+        "updatedAt": "2021-06-28T10:43:45.263Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -128,8 +128,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 31,
-        "publishedAt": "2020-12-05T17:28:38.717Z",
+        "publishedVersion": 33,
+        "publishedAt": "2021-06-28T10:43:45.263Z",
         "firstPublishedAt": "2020-03-13T21:20:04.291Z",
         "createdBy": {
           "sys": {
@@ -145,8 +145,8 @@
             "id": "0GRqIckbonrTjZbkk1tQ4A"
           }
         },
-        "publishedCounter": 16,
-        "version": 32,
+        "publishedCounter": 17,
+        "version": 34,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -255,7 +255,7 @@
         "id": "article",
         "type": "ContentType",
         "createdAt": "2020-04-05T20:32:11.845Z",
-        "updatedAt": "2020-07-11T22:08:46.779Z",
+        "updatedAt": "2021-06-28T10:43:43.974Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -263,8 +263,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 21,
-        "publishedAt": "2020-07-11T22:08:46.779Z",
+        "publishedVersion": 27,
+        "publishedAt": "2021-06-28T10:43:43.974Z",
         "firstPublishedAt": "2020-04-05T20:32:12.710Z",
         "createdBy": {
           "sys": {
@@ -280,8 +280,8 @@
             "id": "0GRqIckbonrTjZbkk1tQ4A"
           }
         },
-        "publishedCounter": 11,
-        "version": 22,
+        "publishedCounter": 14,
+        "version": 28,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -407,6 +407,7 @@
           "name": "Hero Image",
           "type": "Link",
           "localized": false,
+          "required": false,
           "validations": [
           ],
           "disabled": false,
@@ -488,7 +489,7 @@
             "linkType": "Space"
           }
         },
-        "version": 8,
+        "version": 22,
         "createdAt": "2020-03-13T21:04:11.393Z",
         "createdBy": {
           "sys": {
@@ -497,7 +498,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2020-03-14T20:48:11.704Z",
+        "updatedAt": "2021-06-28T10:55:41.174Z",
         "updatedBy": {
           "sys": {
             "id": "0GRqIckbonrTjZbkk1tQ4A",
@@ -557,7 +558,7 @@
             "linkType": "Space"
           }
         },
-        "version": 32,
+        "version": 34,
         "createdAt": "2020-03-13T21:20:04.363Z",
         "createdBy": {
           "sys": {
@@ -566,7 +567,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2020-12-05T17:28:40.121Z",
+        "updatedAt": "2021-06-28T10:43:49.338Z",
         "updatedBy": {
           "sys": {
             "id": "0GRqIckbonrTjZbkk1tQ4A",
@@ -646,7 +647,7 @@
             "linkType": "Space"
           }
         },
-        "version": 22,
+        "version": 28,
         "createdAt": "2020-04-05T20:32:12.791Z",
         "createdBy": {
           "sys": {
@@ -655,7 +656,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2020-07-11T22:08:48.282Z",
+        "updatedAt": "2021-06-28T10:43:49.684Z",
         "updatedBy": {
           "sys": {
             "id": "0GRqIckbonrTjZbkk1tQ4A",
@@ -769,6 +770,10 @@
   ],
   "entries": [
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -780,7 +785,7 @@
         "id": "61W992c6tvaqZBkYt5nbAU",
         "type": "Entry",
         "createdAt": "2020-03-13T21:35:15.740Z",
-        "updatedAt": "2020-12-12T22:41:06.138Z",
+        "updatedAt": "2021-06-28T10:44:24.459Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -788,8 +793,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 31,
-        "publishedAt": "2020-12-12T22:41:06.138Z",
+        "publishedVersion": 33,
+        "publishedAt": "2021-06-28T10:44:24.459Z",
         "firstPublishedAt": "2020-03-13T21:40:46.172Z",
         "createdBy": {
           "sys": {
@@ -805,8 +810,8 @@
             "id": "0GRqIckbonrTjZbkk1tQ4A"
           }
         },
-        "publishedCounter": 4,
-        "version": 32,
+        "publishedCounter": 5,
+        "version": 34,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -858,6 +863,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -869,7 +878,7 @@
         "id": "4oqcIdrQquu1C6LPNVOtSo",
         "type": "Entry",
         "createdAt": "2020-03-14T17:20:20.891Z",
-        "updatedAt": "2020-12-12T22:49:38.313Z",
+        "updatedAt": "2021-06-28T10:44:36.629Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -877,8 +886,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 31,
-        "publishedAt": "2020-12-12T22:49:38.313Z",
+        "publishedVersion": 33,
+        "publishedAt": "2021-06-28T10:44:36.629Z",
         "firstPublishedAt": "2020-03-14T17:20:31.628Z",
         "createdBy": {
           "sys": {
@@ -894,8 +903,8 @@
             "id": "0GRqIckbonrTjZbkk1tQ4A"
           }
         },
-        "publishedCounter": 5,
-        "version": 32,
+        "publishedCounter": 6,
+        "version": 34,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -933,6 +942,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -944,7 +957,7 @@
         "id": "6xfcZwoP5xpGVTAFhJb76r",
         "type": "Entry",
         "createdAt": "2020-03-14T17:31:22.036Z",
-        "updatedAt": "2020-12-12T22:32:51.189Z",
+        "updatedAt": "2021-06-28T10:44:32.766Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -952,8 +965,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 52,
-        "publishedAt": "2020-12-12T22:32:51.189Z",
+        "publishedVersion": 54,
+        "publishedAt": "2021-06-28T10:44:32.766Z",
         "firstPublishedAt": "2020-03-14T17:32:23.713Z",
         "createdBy": {
           "sys": {
@@ -969,8 +982,8 @@
             "id": "0GRqIckbonrTjZbkk1tQ4A"
           }
         },
-        "publishedCounter": 5,
-        "version": 53,
+        "publishedCounter": 6,
+        "version": 55,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1022,6 +1035,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1033,7 +1050,7 @@
         "id": "7nPrVDH5ikCcu5uAgjWGMm",
         "type": "Entry",
         "createdAt": "2020-04-05T20:33:12.996Z",
-        "updatedAt": "2020-12-12T22:47:14.798Z",
+        "updatedAt": "2021-06-28T10:44:30.304Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1041,8 +1058,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 106,
-        "publishedAt": "2020-12-12T22:47:14.798Z",
+        "publishedVersion": 108,
+        "publishedAt": "2021-06-28T10:44:30.304Z",
         "firstPublishedAt": "2020-04-05T20:34:58.306Z",
         "createdBy": {
           "sys": {
@@ -1058,8 +1075,8 @@
             "id": "0GRqIckbonrTjZbkk1tQ4A"
           }
         },
-        "publishedCounter": 8,
-        "version": 107,
+        "publishedCounter": 9,
+        "version": 109,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1129,6 +1146,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1140,7 +1161,7 @@
         "id": "KBnbHfvEaxdKBxMoypBbY",
         "type": "Entry",
         "createdAt": "2020-11-12T11:21:29.229Z",
-        "updatedAt": "2020-12-12T22:51:45.320Z",
+        "updatedAt": "2021-06-28T10:44:28.675Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1148,8 +1169,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 31,
-        "publishedAt": "2020-12-12T22:51:45.320Z",
+        "publishedVersion": 33,
+        "publishedAt": "2021-06-28T10:44:28.675Z",
         "firstPublishedAt": "2020-12-12T22:17:33.321Z",
         "createdBy": {
           "sys": {
@@ -1165,8 +1186,8 @@
             "id": "0GRqIckbonrTjZbkk1tQ4A"
           }
         },
-        "publishedCounter": 6,
-        "version": 32,
+        "publishedCounter": 7,
+        "version": 34,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1236,6 +1257,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1247,7 +1272,7 @@
         "id": "4OAr3WKiJaXwgF2xbZpQgl",
         "type": "Entry",
         "createdAt": "2020-12-12T22:52:51.045Z",
-        "updatedAt": "2020-12-12T22:54:52.396Z",
+        "updatedAt": "2021-06-28T10:44:26.774Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1255,8 +1280,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 9,
-        "publishedAt": "2020-12-12T22:54:52.396Z",
+        "publishedVersion": 17,
+        "publishedAt": "2021-06-28T10:44:26.774Z",
         "firstPublishedAt": "2020-12-12T22:54:52.396Z",
         "createdBy": {
           "sys": {
@@ -1272,8 +1297,8 @@
             "id": "0GRqIckbonrTjZbkk1tQ4A"
           }
         },
-        "publishedCounter": 1,
-        "version": 10,
+        "publishedCounter": 5,
+        "version": 18,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1345,6 +1370,10 @@
   ],
   "assets": [
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1356,211 +1385,7 @@
         "id": "1EZrb1qcvw8KXjl1NrynLV",
         "type": "Asset",
         "createdAt": "2020-03-15T21:34:01.899Z",
-        "updatedAt": "2020-03-15T21:34:43.891Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "publishedAt": "2020-03-15T21:34:43.891Z",
-        "firstPublishedAt": "2020-03-15T21:34:43.891Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "0GRqIckbonrTjZbkk1tQ4A"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "0GRqIckbonrTjZbkk1tQ4A"
-          }
-        },
-        "publishedCounter": 1,
-        "version": 4,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "0GRqIckbonrTjZbkk1tQ4A"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "john-doe"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/9mwtim8ci3gy/1EZrb1qcvw8KXjl1NrynLV/54e23ef7badb9f70138c9edf129ec54a/john-doe.png",
-            "details": {
-              "size": 346350,
-              "image": {
-                "width": 433,
-                "height": 578
-              }
-            },
-            "fileName": "john-doe.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "9mwtim8ci3gy"
-          }
-        },
-        "id": "54XsJEAFRAKKHg2Q8bsqL4",
-        "type": "Asset",
-        "createdAt": "2020-07-11T13:25:53.643Z",
-        "updatedAt": "2020-07-11T13:26:33.742Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "publishedAt": "2020-07-11T13:26:33.742Z",
-        "firstPublishedAt": "2020-07-11T13:26:33.742Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "0GRqIckbonrTjZbkk1tQ4A"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "0GRqIckbonrTjZbkk1tQ4A"
-          }
-        },
-        "publishedCounter": 1,
-        "version": 4,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "0GRqIckbonrTjZbkk1tQ4A"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "jane-smith"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/9mwtim8ci3gy/54XsJEAFRAKKHg2Q8bsqL4/d6dc9543b54a1518c7ebe71d9fe5baf1/jane-smith.png",
-            "details": {
-              "size": 237723,
-              "image": {
-                "width": 347,
-                "height": 408
-              }
-            },
-            "fileName": "jane-smith.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "9mwtim8ci3gy"
-          }
-        },
-        "id": "1kh1kFZRYWQB1hj6ki5O3W",
-        "type": "Asset",
-        "createdAt": "2020-12-12T22:38:43.474Z",
-        "updatedAt": "2020-12-12T22:51:03.463Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 17,
-        "publishedAt": "2020-12-12T22:51:03.463Z",
-        "firstPublishedAt": "2020-12-12T22:40:18.767Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "0GRqIckbonrTjZbkk1tQ4A"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "0GRqIckbonrTjZbkk1tQ4A"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 18,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "0GRqIckbonrTjZbkk1tQ4A"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "dog"
-        },
-        "description": {
-          "en-US": "https://fontawesome.com/icons/dog?style=solid\nhttps://fontawesome.com/license"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/9mwtim8ci3gy/1kh1kFZRYWQB1hj6ki5O3W/7b4885ceec9f52e0afe37356d4b21a9a/dog-solid.svg",
-            "details": {
-              "size": 632,
-              "image": {
-                "width": 576,
-                "height": 512
-              }
-            },
-            "fileName": "dog-solid.svg",
-            "contentType": "image/svg+xml"
-          }
-        }
-      }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "9mwtim8ci3gy"
-          }
-        },
-        "id": "69cygFP4yHe5MF5Bkz1eXW",
-        "type": "Asset",
-        "createdAt": "2020-12-12T22:41:24.895Z",
-        "updatedAt": "2020-12-12T22:46:36.549Z",
+        "updatedAt": "2021-06-28T10:44:04.719Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1569,8 +1394,8 @@
           }
         },
         "publishedVersion": 6,
-        "publishedAt": "2020-12-12T22:46:36.549Z",
-        "firstPublishedAt": "2020-12-12T22:46:06.990Z",
+        "publishedAt": "2021-06-28T10:44:04.719Z",
+        "firstPublishedAt": "2020-03-15T21:34:43.891Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -1597,6 +1422,293 @@
       },
       "fields": {
         "title": {
+          "en-US": "john-doe"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/9mwtim8ci3gy/1EZrb1qcvw8KXjl1NrynLV/e95fcbcded7105a5beae4134e0ac799c/john-doe.png",
+            "details": {
+              "size": 346350,
+              "image": {
+                "width": 433,
+                "height": 578
+              }
+            },
+            "fileName": "john-doe.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "9mwtim8ci3gy"
+          }
+        },
+        "id": "54XsJEAFRAKKHg2Q8bsqL4",
+        "type": "Asset",
+        "createdAt": "2020-07-11T13:25:53.643Z",
+        "updatedAt": "2021-06-28T10:44:17.571Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "publishedAt": "2021-06-28T10:44:17.571Z",
+        "firstPublishedAt": "2020-07-11T13:26:33.742Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 7,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "jane-smith"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/9mwtim8ci3gy/54XsJEAFRAKKHg2Q8bsqL4/d5e631248b9ba64e533f8a55d7fc8df3/jane-smith.png",
+            "details": {
+              "size": 237723,
+              "image": {
+                "width": 347,
+                "height": 408
+              }
+            },
+            "fileName": "jane-smith.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "9mwtim8ci3gy"
+          }
+        },
+        "id": "3kVfd6feUdG0CyDJvIHAyu",
+        "type": "Asset",
+        "createdAt": "2020-12-12T22:20:58.583Z",
+        "updatedAt": "2021-06-28T10:47:42.501Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 11,
+        "publishedAt": "2021-06-28T10:47:42.501Z",
+        "firstPublishedAt": "2020-12-12T22:21:29.165Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 12,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "advertising"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/9mwtim8ci3gy/3kVfd6feUdG0CyDJvIHAyu/b6bda98b904635819ae3a131c7b59119/logo.png",
+            "details": {
+              "size": 3085,
+              "image": {
+                "width": 200,
+                "height": 38
+              }
+            },
+            "fileName": "logo.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "9mwtim8ci3gy"
+          }
+        },
+        "id": "1kh1kFZRYWQB1hj6ki5O3W",
+        "type": "Asset",
+        "createdAt": "2020-12-12T22:38:43.474Z",
+        "updatedAt": "2021-06-28T10:44:15.456Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 20,
+        "publishedAt": "2021-06-28T10:44:15.456Z",
+        "firstPublishedAt": "2020-12-12T22:40:18.767Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 21,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "dog"
+        },
+        "description": {
+          "en-US": "https://fontawesome.com/icons/dog?style=solid\nhttps://fontawesome.com/license"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/9mwtim8ci3gy/1kh1kFZRYWQB1hj6ki5O3W/06111c50406f05451e01f0ac0704d433/dog-solid.svg",
+            "details": {
+              "size": 632,
+              "image": {
+                "width": 576,
+                "height": 512
+              }
+            },
+            "fileName": "dog-solid.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "9mwtim8ci3gy"
+          }
+        },
+        "id": "69cygFP4yHe5MF5Bkz1eXW",
+        "type": "Asset",
+        "createdAt": "2020-12-12T22:41:24.895Z",
+        "updatedAt": "2021-06-28T10:44:12.551Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "publishedAt": "2021-06-28T10:44:12.551Z",
+        "firstPublishedAt": "2020-12-12T22:46:06.990Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 10,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        }
+      },
+      "fields": {
+        "title": {
           "en-US": "photo-1583511655857-d19b40a7a54e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80"
         },
         "description": {
@@ -1604,7 +1716,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/9mwtim8ci3gy/69cygFP4yHe5MF5Bkz1eXW/7f7c9ca247029cf470cab199b43e2429/photo-1583511655857-d19b40a7a54e",
+            "url": "//images.ctfassets.net/9mwtim8ci3gy/69cygFP4yHe5MF5Bkz1eXW/1a53a1b429250d2ec5f950c4a398817d/photo-1583511655857-d19b40a7a54e_ixid_MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw_3D_ixlib_rb.1_auto_format_fit_crop_w_1949_q_80",
             "details": {
               "size": 221322,
               "image": {
@@ -1619,6 +1731,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1630,7 +1746,7 @@
         "id": "1re8cINKXhi5pdJPfD72M9",
         "type": "Asset",
         "createdAt": "2020-12-12T22:48:29.314Z",
-        "updatedAt": "2020-12-12T22:48:53.792Z",
+        "updatedAt": "2021-06-28T10:44:10.223Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1638,8 +1754,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2020-12-12T22:48:53.792Z",
+        "publishedVersion": 8,
+        "publishedAt": "2021-06-28T10:44:10.223Z",
         "firstPublishedAt": "2020-12-12T22:48:53.792Z",
         "createdBy": {
           "sys": {
@@ -1655,8 +1771,8 @@
             "id": "0GRqIckbonrTjZbkk1tQ4A"
           }
         },
-        "publishedCounter": 1,
-        "version": 6,
+        "publishedCounter": 2,
+        "version": 9,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1674,7 +1790,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/9mwtim8ci3gy/1re8cINKXhi5pdJPfD72M9/c62f401de8c26c19404c542b8f87d584/photo-1598134706627-d7ee8c927785",
+            "url": "//images.ctfassets.net/9mwtim8ci3gy/1re8cINKXhi5pdJPfD72M9/c83fe0d53a144955dd46da3dbbca0c0a/photo-1598134706627-d7ee8c927785_ixid_MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw_3D_ixlib_rb.1_auto_format_fit_crop_w_1949_q_80",
             "details": {
               "size": 192944,
               "image": {
@@ -1689,6 +1805,10 @@
       }
     },
     {
+      "metadata": {
+        "tags": [
+        ]
+      },
       "sys": {
         "space": {
           "sys": {
@@ -1700,7 +1820,7 @@
         "id": "RIZPWm70ZRt29Qr3tI55A",
         "type": "Asset",
         "createdAt": "2020-12-12T22:54:22.466Z",
-        "updatedAt": "2020-12-12T22:54:43.216Z",
+        "updatedAt": "2021-06-28T10:44:06.988Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1708,8 +1828,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2020-12-12T22:54:43.215Z",
+        "publishedVersion": 8,
+        "publishedAt": "2021-06-28T10:44:06.988Z",
         "firstPublishedAt": "2020-12-12T22:54:43.215Z",
         "createdBy": {
           "sys": {
@@ -1725,8 +1845,8 @@
             "id": "0GRqIckbonrTjZbkk1tQ4A"
           }
         },
-        "publishedCounter": 1,
-        "version": 6,
+        "publishedCounter": 2,
+        "version": 9,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1744,7 +1864,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/9mwtim8ci3gy/RIZPWm70ZRt29Qr3tI55A/84909579c6bffc5846731b9d8bd87fb2/photo-1583512603784-a8e3ea8355b4",
+            "url": "//images.ctfassets.net/9mwtim8ci3gy/RIZPWm70ZRt29Qr3tI55A/6c6c2aa11f3cb883828100ae8e595231/photo-1583512603784-a8e3ea8355b4_ixlib_rb.1_ixid_MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw_3D_auto_format_fit_crop_w_1949_q_80",
             "details": {
               "size": 143102,
               "image": {
@@ -1754,6 +1874,219 @@
             },
             "fileName": "photo-1583512603784-a8e3ea8355b4?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1949&q=80",
             "contentType": "image/jpeg"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "9mwtim8ci3gy"
+          }
+        },
+        "id": "tYkaEL0wYqMT2mbZAjpYs",
+        "type": "Asset",
+        "createdAt": "2021-06-28T10:49:28.840Z",
+        "updatedAt": "2021-06-28T10:50:02.582Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-06-28T10:50:02.582Z",
+        "firstPublishedAt": "2021-06-28T10:50:02.582Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "logo"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/9mwtim8ci3gy/tYkaEL0wYqMT2mbZAjpYs/2186a298d081e722f6f5d01f92cd5d00/logo.png",
+            "details": {
+              "size": 3085,
+              "image": {
+                "width": 200,
+                "height": 38
+              }
+            },
+            "fileName": "logo.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "9mwtim8ci3gy"
+          }
+        },
+        "id": "5wnsMGDiVoMwPUwetofaTK",
+        "type": "Asset",
+        "createdAt": "2021-06-28T10:52:08.091Z",
+        "updatedAt": "2021-06-28T10:52:41.457Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-06-28T10:52:41.457Z",
+        "firstPublishedAt": "2021-06-28T10:52:41.457Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "bx-brain"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/9mwtim8ci3gy/5wnsMGDiVoMwPUwetofaTK/614a4402a5e4e2340e13b74938cc96c2/bx-brain.svg",
+            "details": {
+              "size": 1486,
+              "image": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            "fileName": "bx-brain.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "9mwtim8ci3gy"
+          }
+        },
+        "id": "4GhLUh0UjToJzR9Uwn0rxI",
+        "type": "Asset",
+        "createdAt": "2021-06-28T10:53:27.805Z",
+        "updatedAt": "2021-06-28T10:53:58.577Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-06-28T10:53:58.577Z",
+        "firstPublishedAt": "2021-06-28T10:53:58.577Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "0GRqIckbonrTjZbkk1tQ4A"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "bx-analyse"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/9mwtim8ci3gy/4GhLUh0UjToJzR9Uwn0rxI/dff8590518562b8b95210e7ea876d735/bx-analyse.svg",
+            "details": {
+              "size": 1073,
+              "image": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            "fileName": "bx-analyse.svg",
+            "contentType": "image/svg+xml"
           }
         }
       }
@@ -1783,7 +2116,8 @@
           "sys": {
             "type": "Link",
             "linkType": "Environment",
-            "id": "master"
+            "id": "master",
+            "uuid": "354aa8d0-2b2b-4fa2-a591-4dbe9574382b"
           }
         },
         "createdBy": {
