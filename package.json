@@ -4,7 +4,7 @@
 	"author": "ElegantStack Studio <elegantstack.studio@gmail.com>",
 	"bin": "./index.js",
 	"dependencies": {
-		"contentful-import": "^8.2.4",
+		"contentful-import": "^8.2.5",
 		"yargs": "^17.1.1"
 	}
 }
