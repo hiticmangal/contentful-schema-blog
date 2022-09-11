@@ -1,10 +1,29 @@
 {
 	"name": "contentful-schema-blog",
 	"version": "1.0.0",
-	"author": "ElegantStack Studio <elegantstack.studio@gmail.com>",
 	"bin": "./index.js",
 	"dependencies": {
 		"contentful-import": "^8.2.5",
 		"yargs": "^17.1.1"
+	},
+	"keywords": [
+		"strapi",
+		"template",
+		"blog",
+		"gatsby"
+	],
+	"homepage": "https://github.com/ElegantStack/contentful-schema-blog#readme",
+	"bugs": {
+		"url": "https://github.com/ElegantStack/contentful-schema-blog/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ElegantStack/contentful-schema-blog.git"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "ElegantStack Studio",
+		"email": "elegantstack.studio@gmail.com",
+		"url": "https://themeforest.net/user/elegantstack"
 	}
 }
