@@ -431,9 +431,9 @@
           "disabled": false,
           "omitted": false
         },
-            {
-      "id": "test",
-      "name": "test",
+        {
+      "id": "body",
+      "name": "body",
       "type": "RichText",
       "localized": false,
       "required": false,
